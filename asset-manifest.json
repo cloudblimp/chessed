@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/chessed/static/css/main.8af7b9c1.chunk.css",
+    "main.js": "/chessed/static/js/main.1d81fb87.chunk.js",
+    "main.js.map": "/chessed/static/js/main.1d81fb87.chunk.js.map",
+    "runtime~main.js": "/chessed/static/js/runtime~main.8a268596.js",
+    "runtime~main.js.map": "/chessed/static/js/runtime~main.8a268596.js.map",
+    "static/js/2.e43a638e.chunk.js": "/chessed/static/js/2.e43a638e.chunk.js",
+    "static/js/2.e43a638e.chunk.js.map": "/chessed/static/js/2.e43a638e.chunk.js.map",
+    "index.html": "/chessed/index.html",
+    "precache-manifest.2ad3437fbccaa78b21799cfcdefc526a.js": "/chessed/precache-manifest.2ad3437fbccaa78b21799cfcdefc526a.js",
+    "service-worker.js": "/chessed/service-worker.js",
+    "static/css/main.8af7b9c1.chunk.css.map": "/chessed/static/css/main.8af7b9c1.chunk.css.map"
+  }
+}
